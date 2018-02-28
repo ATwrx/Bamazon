@@ -1,0 +1,8 @@
+{
+  "name": "Bamazon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kellymersereau/Bamazon.git",
+  "author": "A. Thompson <act.webdesigns@gmail.com>",
+  "license": "MIT"
+}
